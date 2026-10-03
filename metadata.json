@@ -1,0 +1,6 @@
+{
+  "name": "ConnectU - University Student Hub",
+  "description": "The dedicated campus platform for university students: post anonymous confessions, chat instantly, buy & sell student marketplace gear, and discover campus freelance gigs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
